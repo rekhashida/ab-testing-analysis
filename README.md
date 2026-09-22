@@ -1,4 +1,4 @@
-# 🧪 A/B Testing Analysis — Landing Page Conversion
+# 🧪 A/B Testing Analysis – Landing Page Conversion
 
 ## 📌 Project Overview
 Statistical analysis of an e-commerce A/B test to determine
